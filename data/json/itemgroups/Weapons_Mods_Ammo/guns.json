@@ -285,7 +285,6 @@
       { "group": "nested_mac_10", "prob": 40 },
       { "group": "nested_mac_11", "prob": 20 },
       { "group": "nested_sten", "prob": 100 },
-      { "group": "nested_TDI", "prob": 40 },
       { "group": "nested_tec9", "prob": 20 },
       { "group": "nested_tommygun", "prob": 70 },
       { "group": "nested_uzi", "prob": 100 }
@@ -303,7 +302,6 @@
       { "group": "everyday_mac_10", "prob": 40 },
       { "group": "everyday_mac_11", "prob": 20 },
       { "group": "everyday_sten", "prob": 100 },
-      { "group": "everyday_TDI", "prob": 40 },
       { "group": "everyday_tec9", "prob": 20 },
       { "group": "everyday_tommygun", "prob": 70 },
       { "group": "everyday_uzi", "prob": 100 }
@@ -337,6 +335,7 @@
       { "group": "nested_hk_mp5sd", "prob": 10 },
       { "group": "nested_kriss_vector_9mm", "prob": 10 },
       { "group": "nested_TDI", "prob": 10 },
+      { "group": "nested_hk_ump40", "prob": 30 },
       { "group": "nested_hk_ump45", "prob": 30 }
     ]
   },
@@ -350,6 +349,7 @@
       { "group": "everyday_hk_mp5sd", "prob": 10 },
       { "group": "nested_kriss_vector_9mm", "prob": 10 },
       { "group": "nested_TDI", "prob": 10 },
+      { "group": "everyday_hk_ump40", "prob": 10 },
       { "group": "everyday_hk_ump45", "prob": 30 }
     ]
   },
@@ -1097,6 +1097,7 @@
     "items": [
       { "group": "guns_cop", "prob": 100 },
       { "group": "nested_hk_ump45", "prob": 15 },
+      { "group": "nested_hk_ump40", "prob": 15 },
       { "group": "nested_hk_mp5", "prob": 50 },
       { "group": "nested_hk_mp5k", "prob": 10 },
       { "group": "nested_hk_mp5sd", "prob": 5 },
@@ -1115,6 +1116,7 @@
     "items": [
       { "group": "guns_cop", "prob": 100 },
       { "group": "everyday_hk_ump45", "prob": 15 },
+      { "group": "everyday_hk_ump40", "prob": 15 },
       { "group": "everyday_hk_mp5", "prob": 50 },
       { "group": "everyday_hk_mp5k", "prob": 10 },
       { "group": "everyday_hk_mp5sd", "prob": 5 },
