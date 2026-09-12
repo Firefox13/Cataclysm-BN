@@ -59,7 +59,7 @@
     "mod_targets": [ "hk_ump45" ],
     "install_time": "1 m",
     "ammo_modifier": [ "9mm" ],
-    "magazine_adaptor": [ [ "40", [ "ump9mag" ] ] ],
+    "magazine_adaptor": [ [ "9mm", [ "ump9mag" ] ] ],
     "min_skills": [ [ "weapon", 1 ], [ "mechanics", 1 ] ]
   },
   {
