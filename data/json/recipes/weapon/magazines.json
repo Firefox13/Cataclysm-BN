@@ -803,7 +803,7 @@
     "using": [ [ "magazine_standard", 5 ] ],
     "components": [ [ [ "scrap", 3 ] ] ]
   },
-    {
+  {
     "result": "ump9mag",
     "type": "recipe",
     "category": "CC_WEAPON",
