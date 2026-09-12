@@ -980,7 +980,7 @@
     "subtype": "collection",
     "ammo": 100,
     "entries": [
-      { "item": "hk_ump40", "ammo-group": "on_hand_40", "charges": [ 0, 30 ] },
+      { "item": "hk_ump45_retool_40", "ammo-group": "on_hand_40", "charges": [ 0, 30 ] },
       { "item": "ump40mag", "ammo-group": "on_hand_40" },
       { "item": "ump40mag", "ammo-group": "on_hand_40", "prob": 50 },
       { "group": "on_hand_40" }

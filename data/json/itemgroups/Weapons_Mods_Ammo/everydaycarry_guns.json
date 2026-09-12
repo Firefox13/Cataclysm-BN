@@ -713,7 +713,7 @@
     "//": "this is a distribution for the gun, reasonable number of backup mags, and some ammo to repack",
     "subtype": "collection",
     "entries": [
-      { "item": "hk_ump40", "ammo-group": "on_hand_40", "charges": [ 0, 30 ] },
+      { "item": "hk_ump45_retool_40", "ammo-group": "on_hand_40", "charges": [ 0, 30 ] },
       { "item": "ump40mag", "charges-min": 0, "prob": 80, "ammo-group": "on_hand_40" },
       { "item": "ump40mag", "charges-min": 0, "ammo-group": "on_hand_40", "prob": 50 },
       { "group": "on_hand_40", "prob": 25, "charges": [ 10, 20 ], "count": [ 1, 2 ] }
