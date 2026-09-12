@@ -20,7 +20,7 @@
     "magazine_adaptor": [ [ "300blk", [ "stanag30", "stanag50", "survivor223mag" ] ] ],
     "flags": [ "IRREMOVABLE" ]
   },
-    {
+  {
     "id": "retool_ump45_40",
     "type": "GUNMOD",
     "name": { "str": ".40 S&W UMP45 conversion kit" },
