@@ -708,7 +708,7 @@
     ]
   },
   {
-    "id": "everyday_hk_ump40",
+    "id": "everyday_hk_ump45_retool_40",
     "type": "item_group",
     "//": "this is a distribution for the gun, reasonable number of backup mags, and some ammo to repack",
     "subtype": "collection",
