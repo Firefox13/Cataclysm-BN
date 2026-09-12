@@ -335,8 +335,9 @@
       { "group": "nested_hk_mp5sd", "prob": 10 },
       { "group": "nested_kriss_vector_9mm", "prob": 10 },
       { "group": "nested_TDI", "prob": 10 },
-      { "group": "nested_hk_ump45_retool_40", "prob": 30 },
-      { "group": "nested_hk_ump45", "prob": 30 }
+      { "group": "nested_hk_ump45_retool_40", "prob": 15 },
+      { "group": "nested_hk_ump45_retool_9mm", "prob": 15 },
+      { "group": "nested_hk_ump45", "prob": 15 }
     ]
   },
   {
@@ -349,8 +350,9 @@
       { "group": "everyday_hk_mp5sd", "prob": 10 },
       { "group": "nested_kriss_vector_9mm", "prob": 10 },
       { "group": "nested_TDI", "prob": 10 },
-      { "group": "everyday_hk_ump45_retool_40", "prob": 30 },
-      { "group": "everyday_hk_ump45", "prob": 30 }
+      { "group": "everyday_hk_ump45_retool_9mm", "prob": 15 },
+      { "group": "everyday_hk_ump45_retool_40", "prob": 15 },
+      { "group": "everyday_hk_ump45", "prob": 15 }
     ]
   },
   {
@@ -1096,8 +1098,9 @@
     "//": "Guns issued to paramilitary forces in addition to standard police issue.",
     "items": [
       { "group": "guns_cop", "prob": 100 },
-      { "group": "nested_hk_ump45", "prob": 15 },
-      { "group": "nested_hk_ump45_retool_40", "prob": 15 },
+      { "group": "nested_hk_ump45", "prob": 10 },
+      { "group": "nested_hk_ump45_retool_40", "prob": 10 },
+      { "group": "nested_hk_ump45_retool_9mm", "prob": 10 },
       { "group": "nested_hk_mp5", "prob": 50 },
       { "group": "nested_hk_mp5k", "prob": 10 },
       { "group": "nested_hk_mp5sd", "prob": 5 },
@@ -1115,8 +1118,9 @@
     "//": "Guns issued to paramilitary forces in addition to standard police issue. Comes with mags or loose ammo.",
     "items": [
       { "group": "guns_cop", "prob": 100 },
-      { "group": "everyday_hk_ump45", "prob": 15 },
-      { "group": "everyday_hk_ump45_retool_40", "prob": 15 },
+      { "group": "everyday_hk_ump45", "prob": 10 },
+      { "group": "everyday_hk_ump45_retool_40", "prob": 10 },
+      { "group": "everyday_hk_ump45_retool_9mm", "prob": 10 },
       { "group": "everyday_hk_mp5", "prob": 50 },
       { "group": "everyday_hk_mp5k", "prob": 10 },
       { "group": "everyday_hk_mp5sd", "prob": 5 },

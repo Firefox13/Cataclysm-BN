@@ -20,10 +20,10 @@
     "magazine_adaptor": [ [ "300blk", [ "stanag30", "stanag50", "survivor223mag" ] ] ],
     "flags": [ "IRREMOVABLE" ]
   },
-    {
+  {
     "id": "retool_ump45_40",
     "type": "GUNMOD",
-    "name": { "str": ".40 S&W UMP45 conversion kit" },
+    "name": { "str": ".40 S&W UMP conversion kit" },
     "description": "A bolt and barrel assembly for the UMP, allowing to shoot it the .40 S&W caliber.",
     "weight": "250 g",
     "volume": "100 ml",
@@ -38,7 +38,29 @@
     "mod_targets": [ "hk_ump45" ],
     "install_time": "1 m",
     "ammo_modifier": [ "40" ],
-    "magazine_adaptor": [ [ "40", [ "ump40mag" ] ] ]
+    "magazine_adaptor": [ [ "40", [ "ump40mag" ] ] ],
+    "min_skills": [ [ "weapon", 1 ], [ "mechanics", 1 ] ]
+  },
+  {
+    "id": "retool_ump45_9mm",
+    "type": "GUNMOD",
+    "name": { "str": "9x19mm UMP conversion kit" },
+    "description": "A bolt and barrel assembly for the UMP, allowing to shoot it the 9x19mm caliber.",
+    "weight": "250 g",
+    "volume": "100 ml",
+    "integral_volume": "0 ml",
+    "integral_weight": "0 g",
+    "price": "50 USD",
+    "price_postapoc": "5 USD",
+    "material": "steel",
+    "symbol": ":",
+    "color": "green",
+    "location": "bore",
+    "mod_targets": [ "hk_ump45" ],
+    "install_time": "1 m",
+    "ammo_modifier": [ "9mm" ],
+    "magazine_adaptor": [ [ "40", [ "ump9mag" ] ] ],
+    "min_skills": [ [ "weapon", 1 ], [ "mechanics", 1 ] ]
   },
   {
     "id": "40x53mm_conversion_kit",
