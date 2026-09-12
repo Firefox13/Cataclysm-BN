@@ -29,7 +29,7 @@
     "copy-from": "smg_base",
     "type": "GUN",
     "name": { "str": "H&K UMP" },
-    "description": "Developed as a lower-cost successor to H&K's own MP5, the Universal Machine Pistol is a closed-bolt, simple blowback sub-machine gun constructed of lightweight polymer.  In order to make it more attractive to American police departments, it was offered in .40 S&W and .45 ACP as well as the ubiquitous 9x19mm.",
+    "description": "Developed as a lower-cost successor to H&K's own MP5, the Universal Machine Pistol is a closed-bolt, simple blowback sub-machine gun constructed of lightweight polymer.  Most commonly offered in .45 ACP, it is also available in .40 S&W and as well as the ubiquitous 9x19mm variants.",
     "weight": "2500 g",
     "volume": "1250 ml",
     "price": "2900 USD",
