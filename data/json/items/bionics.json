@@ -760,7 +760,7 @@
     "name": { "str_sp": "Power Storage CBM Mk. II" },
     "looks_like": "bio_int_enhancer",
     "description": "A Compact Bionics Module developed at DoubleTech Industries as a replacement for the highly successful Power Storage CBM.  Increases the user's power capacity by 250 units.",
-    "price": "2000 kUSD",
+    "price": "2000 USD",
     "weight": "50 g",
     "difficulty": 1,
     "installation_data": "AID_bio_power_storage_mkII"
